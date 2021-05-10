@@ -1,0 +1,154 @@
+Владимир Маяковский
+Да или нет?
+Сегодня
+пулей
+наемной руки
+застрелен
+товарищ Войков.
+Зажмите
+горе
+в зубах тугих,
+волненье
+скрутите стойко.
+Мы требуем
+точный
+и ясный ответ,
+без дипломатии,
+го̀ло:
+— Паны за убийцу?
+Да или нет? —
+И, если надо,
+нужный ответ
+мы выжмем,
+взяв за горло.
+Сегодня
+взгляд наш
+угрюм и кос,
+и гневен
+массовый оклик:
+— Мы терпим Шанхай…
+Стерпим Аркос…
+И это стерпим?
+Не много ли? —
+Нам трудно
+и тяжко,
+не надо прикрас,
+но им
+не сломить стальных.
+Мы ждем
+на наших постах
+приказ
+рабоче-крестьянской страны.
+Когда
+взовьется
+восстания стяг
+и дым
+борьбы
+заклубится,
+рабочие мира,
+не дрогните, мстя
+и на́нявшим
+и убийцам!
+
+1927 г.
+
+
+
+<!DOCTYPE HTML>
+<html>
+ <head>
+  <meta charset="utf-8">
+  <title>poem</title>
+  <style>
+      .underline {
+text-decoration: underline; 
+}   
+h1 {
+    padding-top: 1cm;
+    padding-left: 16cm;
+    font-family: Georgia, "Times New Roman",
+          Times, serif; }
+
+   h2 {
+    padding-top: 1cm;
+    padding-left: 15cm;
+    font-family: Georgia, "Times New Roman",
+          Times, serif; }
+   .cite1 {
+    padding-left: 13cm; 
+    font-family: Georgia, "Times New Roman",
+          Times, serif; }
+          .cite2 {
+      padding-left: 15cm; 
+      font-family: Georgia, "Times New Roman",
+          Times, serif; }
+
+         .cite3 {
+    padding-left: 17cm;
+    font-family: Georgia, "Times New Roman",
+          Times, serif; } 
+
+     .cite4 {
+    padding-left: 20cm;
+    color: grey;
+    font-size: 70%;
+    font-family:  Helvetica, Geneva, Arial,
+          SunSans-Regular, sans-serif }
+  </style>
+ </head> 
+ <body>
+    <h2>Владимир Маяковский</h2>
+        <h1>Да или нет?</h1>
+     <p class="cite1">Сегодня</p>
+     <p class="cite2">пулей</p>
+     <p class="cite3">наемной руки</p>
+     <p class="cite2">застрелен</p>
+     <p class="cite3">товарищ Войков.</p>
+     <p class="cite1">Зажмите</p>
+     <p class="cite2">горе</p>
+     <p class="cite3">в зубах тугих,</p>
+     <p class="cite1">волненье</p>
+     <p class="cite2">скрутите стойко.</p>
+     <p class="cite1">Мы требуем</p>
+     <p class="cite2">точный</p>
+     <p class="cite3">и ясный ответ,</p>
+     <p class="cite1">без дипломатии,</p>
+     <p class="cite3">голо:</p>
+     <p class="cite2">-Паны на убийцу?</p>
+     <p class="cite3">Да или нет?-</p>
+     <p class="cite1">И,если надо,</p>
+     <p class="cite2">нужный ответ</p>
+     <p class="cite1">Мы выжмем</p>
+     <p class="cite2">взяв за горло.</p>
+     <p class="cite1">Сегодня</p>
+     <p class="cite2">взгляд наш</p>
+     <p class="cite3">угрюм и кос,</p>
+     <p class="cite3">и гневен</p>
+     <p class="cite1">массовый отклик:</p>
+     <p class="cite2">-Мы терпим Шанхай…</p>
+     <p class="cite3">Стерпим Аркос…</p>
+     <p class="cite2">И это стерпим?</p>
+     <p class="cite3">Не много ли?-</p>
+     <p class="cite1">нам трудно</p>
+     <p class="cite2">и тяжко,</p>
+     <p class="cite3">не надо прикрас,</p>
+     <p class="cite1">но им</p>
+     <p class="cite2">не сломить стальных.</p>
+     <p class="cite1">Мы ждем</p>
+     <p class="cite2">на наших постах</p>
+     <p class="cite2">приказ</p>
+     <p class="cite1">рабоче-крестьянской страны.</p>
+     <p class="cite1">Когда</p>
+     <p class="cite2">взовьется</p>
+     <p class="cite3">восстания стяг</p>
+     <p class="cite1">и дым</p>
+     <p class="cite2">борьбы</p>
+     <p class="cite3">заклубится</p>
+     <p class="cite1">рабочие мира,</p>
+     <p class="cite2">не дрогните,мстя</p>
+     <p class="cite1">и нанявшим</p>
+     <p class="cite2">и убийцам!</p>
+     <p class="cite4">1927 г.</p>
+ </body>
+ </body>
+</html>
